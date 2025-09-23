@@ -1,7 +1,7 @@
 # ZAHYA KSA FLAG | علم المملكة السعودية
 
-<img src="https://i.ibb.co/dJkDmdd3/ksapolice.png" alt="KSA Flag" width="400">
-<img src="https://i.ibb.co/Df5w36YN/679.png" alt="Script Preview" width="400">
+<img src="preview1.png" alt="KSA Flag" width="400">
+<img src="preview2.png" alt="Script Preview" width="400">
 
 ## 📝 Description | الوصف
 
