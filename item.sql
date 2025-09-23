@@ -1,0 +1,2 @@
+INSERT INTO items (name, label, weight, rare, can_remove) VALUES ('ksa_flag', 'علم المملكة السعودية', 1, 0, 1) ON DUPLICATE KEY UPDATE label = 'علم المملكة السعودية';
+INSERT INTO items (name, label, weight, rare, can_remove) VALUES ('ksa_flag_box', 'صندوق علم المملكة السعودية', 10, 0, 1) ON DUPLICATE KEY UPDATE label = 'صندوق علم المملكة السعودية';
